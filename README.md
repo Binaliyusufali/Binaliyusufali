@@ -1,3 +1,4 @@
+<!--
 ### Hi there 👋
 
 
@@ -13,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 <h1> Merhaba, Benim Adım <i>Binali Yusufali </i> </h1>
 
 <h3> Hakkımda </h3>
