@@ -43,5 +43,6 @@ Proje 3: [Proje açıklaması buraya yazılabilir.]
 
 <p>
   <b>LinkedIn:</b> linkedin.com/in/binaliyusufali
+ <br>
   <b>E-posta:</b> binaliyusufali@gmail.com
 </p>
