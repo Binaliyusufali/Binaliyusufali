@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1> Merhaba, Benim Adım <i>Binali Yusufali </i> </h1>
 
 <h3> Hakkımda </h3>
-<p>Ben Frontend eğitimi alan, ve sürekli gelişmeye açık bir Jr. Frontend developer adayıyım. Öğrenmeyi seviyorum bu zamana kadar  HTML ve CSS yapısını öğrendim. Şu anda eğitim almaktayım ve yakında HTML, CSS, Bootstrap, Javascript ve React dilleri kullanarak projeler yapabilecek düzeye geleceğim.</p>
+<p>Üniversite hayatıma Bilgisayar Öğretmenliği ile başladım. Sonrasında Kocaeli Üniversitesi Psikolojik Danışmanlık ve Rehber Öğretmenliği okuyarak devam ettim. Öğretmenliğin getirdiği merak duygusuyla yazılım alanında gerekli eğitimleri alarak çalışmalara başladım. Şu anda Frontend ve React alanında ilerlemekteyim. Edindiğim deneyimlere bağlı takım çalışması ruhunun çok değerli olduğu düşüncesindeyim. Takım çalışmasının beni sürekli öğrenme ve gelişme süreçlerinde motive ettiğini görüyorum. Frontend, React ve React Native alanında odaklanmaktayım. Öğretmenlikten gelen iletişim becerileri ile hem müşteri hem de takım arkadaşlarım arasında olumlu etkileşimler sağlamaktayım. </p>
 <!--
 Proje Örnekleri
 Proje 1: [Proje açıklaması buraya yazılabilir.]
