@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1> Merhaba, Benim Adım <i>Binali Yusufali </i> </h1>
 
 <h3> Hakkımda </h3>
-<p>Üniversite hayatıma Bilgisayar Öğretmenliği ile başladım. Sonrasında Kocaeli Üniversitesi Psikolojik Danışmanlık ve Rehber Öğretmenliği okuyarak devam ettim. Öğretmenliğin getirdiği merak duygusuyla yazılım alanında gerekli eğitimleri alarak çalışmalara başladım. Şu anda Frontend ve React alanında ilerlemekteyim. Edindiğim deneyimlere bağlı takım çalışması ruhunun çok değerli olduğu düşüncesindeyim. Takım çalışmasının beni sürekli öğrenme ve gelişme süreçlerinde motive ettiğini görüyorum. Frontend, React ve React Native alanında odaklanmaktayım. Öğretmenlikten gelen iletişim becerileri ile hem müşteri hem de takım arkadaşlarım arasında olumlu etkileşimler sağlamaktayım. </p>
+<p>Üniversite hayatıma Bilgisayar Öğretmenliği ile başladım. Sonrasında Kocaeli Üniversitesi Psikolojik Danışmanlık ve Rehber Öğretmenliği okuyarak devam ettim. Öğretmenliğin getirdiği merak duygusuyla yazılım alanında gerekli eğitimleri alarak çalışmalara başladım. Şu anda Frontend ve React alanında ilerlemekteyim. React Native öğrenmeye devam ediyorum. Edindiğim deneyimlere bağlı takım çalışması ruhunun çok değerli olduğu düşüncesindeyim. Takım çalışmasının beni sürekli öğrenme ve gelişme süreçlerinde motive ettiğini görüyorum. Frontend, React ve React Native alanında odaklanmaktayım. </p>
 <!--
 Proje Örnekleri
 Proje 1: [Proje açıklaması buraya yazılabilir.]
